@@ -47,4 +47,4 @@ The dataset used in this project is the built-in **Titanic dataset** from Seabor
 3. Run all cells and explore the data
 
 ```bash
-git clone https://github.com/your-username/titanic-analysis-python.git
+git clone https://github.com/jthhn/Titanic-Survival-Analysis.git
